@@ -7,7 +7,6 @@
  * @param topicTcw
  * @param cameraParamFile  
  * 修改于高翔发布的点云构建线程
- * cenruping@vip.qq.com
  */
 
 #include <stdlib.h>

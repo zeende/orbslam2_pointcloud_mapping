@@ -7,9 +7,9 @@
  * @param topicTcw
  * @param cameraParamFile  
  * 
- * 2019-12-1 修改于高翔发布的点云构建线程
- * 2020-7-5 通过创建一个opencv的窗口来获取按键的值，用于在建图结束的时候保存地图。
- * cenruping@vip.qq.com
+ * 修改于高翔发布的点云构建线程
+ *通过创建一个opencv的窗口来获取按键的值，用于在建图结束的时候保存地图。
+
  */
   
  #include <stdlib.h>
